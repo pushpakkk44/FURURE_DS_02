@@ -1,2 +1,65 @@
-# FURURE_DS_02
+📊Customer Retention & Churn Analysis
+
+📌Project Overview
+
 Analyzed customer data to identify churn patterns, customer behavior trends, and key retention drivers. Performed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python, Pandas, and NumPy. Generated insights through visualization and statistical analysis to support data-driven retention strategies and business decisions.
+🎯 Objectives
+*Analyze customer churn behavior.
+*Identify important churn indicators.
+*Discover key customer retention drivers.
+*Perform data cleaning and preprocessing.
+*Generate business insights using visualizations.
+🛠️ Technologies Used
+*Python
+*Pandas
+*NumPy
+*Matplotlib
+*Seaborn
+*Google Colab
+📂 Dataset Features
+The dataset contains customer information such as:
+*Gender
+*Senior Citizen Status
+*Contract Type
+*Payment Method
+*Monthly Charges
+*Customer Churn Status
+🔍 Exploratory Data Analysis (EDA)
+1. Customer Churn Distribution
+Analyzed the overall distribution of churned and retained customers.
+2. Gender vs Churn
+Compared churn behavior across male and female customers.
+3. Senior Citizen vs Churn
+Examined churn trends among senior and non-senior customers.
+4. Contract Type vs Churn
+Studied the impact of Month-to-Month, One-Year, and Two-Year contracts on customer churn.
+5. Payment Method vs Churn
+Analyzed how payment methods influence churn behavior.
+6. Monthly Charges vs Churn
+Investigated the relationship between monthly charges and customer churn.
+📈 Key Insights
+✔️ Customers with Month-to-Month contracts show higher churn rates.
+✔️ Customers using Electronic Check payment methods are more likely to churn.
+✔️ Customers with long-term contracts demonstrate better retention.
+✔️ Higher monthly charges are associated with increased churn probability.
+✔️ Gender has minimal impact on churn behavior.
+🚀 Project Workflow
+*Data Collection
+*Data Cleaning & Preprocessing
+*Exploratory Data Analysis (EDA)
+*Data Visualization
+*Churn Pattern Analysis
+*Business Insight Generation
+
+▶️ How to Run
+# Clone repository
+git clone <repository_link>
+# Install dependencies
+pip install pandas numpy matplotlib seaborn
+# Run notebook
+jupyter notebook
+📌 Conclusion
+This analysis provides valuable insights into customer behavior and retention patterns. Businesses can leverage these findings to design targeted retention strategies, improve customer engagement, and minimize customer churn.
+👩‍💻 Author
+Pushpalatha
+
