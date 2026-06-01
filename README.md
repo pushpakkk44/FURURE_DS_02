@@ -3,12 +3,14 @@
 📌Project Overview
 
 Analyzed customer data to identify churn patterns, customer behavior trends, and key retention drivers. Performed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python, Pandas, and NumPy. Generated insights through visualization and statistical analysis to support data-driven retention strategies and business decisions.
+
 🎯 Objectives
 *Analyze customer churn behavior.
 *Identify important churn indicators.
 *Discover key customer retention drivers.
 *Perform data cleaning and preprocessing.
 *Generate business insights using visualizations.
+
 🛠️ Technologies Used
 *Python
 *Pandas
@@ -16,6 +18,7 @@ Analyzed customer data to identify churn patterns, customer behavior trends, and
 *Matplotlib
 *Seaborn
 *Google Colab
+
 📂 Dataset Features
 The dataset contains customer information such as:
 *Gender
@@ -24,6 +27,7 @@ The dataset contains customer information such as:
 *Payment Method
 *Monthly Charges
 *Customer Churn Status
+
 🔍 Exploratory Data Analysis (EDA)
 1. Customer Churn Distribution
 Analyzed the overall distribution of churned and retained customers.
@@ -37,12 +41,14 @@ Studied the impact of Month-to-Month, One-Year, and Two-Year contracts on custom
 Analyzed how payment methods influence churn behavior.
 6. Monthly Charges vs Churn
 Investigated the relationship between monthly charges and customer churn.
+
 📈 Key Insights
 ✔️ Customers with Month-to-Month contracts show higher churn rates.
 ✔️ Customers using Electronic Check payment methods are more likely to churn.
 ✔️ Customers with long-term contracts demonstrate better retention.
 ✔️ Higher monthly charges are associated with increased churn probability.
 ✔️ Gender has minimal impact on churn behavior.
+
 🚀 Project Workflow
 *Data Collection
 *Data Cleaning & Preprocessing
@@ -58,8 +64,10 @@ git clone <repository_link>
 pip install pandas numpy matplotlib seaborn
 # Run notebook
 jupyter notebook
+
 📌 Conclusion
 This analysis provides valuable insights into customer behavior and retention patterns. Businesses can leverage these findings to design targeted retention strategies, improve customer engagement, and minimize customer churn.
+
 👩‍💻 Author
 Pushpalatha
 
